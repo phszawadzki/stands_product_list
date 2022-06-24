@@ -1,0 +1,44 @@
+.logo__image {
+    width: 200px;
+    margin: 2rem;
+}
+
+.link a {
+     text-decoration: none;
+    color: black;
+}
+
+.link a:hover {
+    
+    color: #e37916;
+}
+
+.button_link a {
+    text-decoration: none;
+    background-color: #e37916;
+    padding: 10px 20px;
+    color: white;
+}
+
+.button_link a:hover {
+    color: black;
+}
+
+/*********** teletubby-like button styles **************/
+
+/* .link a {
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: black;
+    border: 2px black solid;
+    border-radius: 2rem;
+    padding:1rem;
+    font-weight: 600;
+}
+
+.link a:hover {
+    background: #0695dd;
+    border-color: #0695dd;
+    color: #e37916;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+} */
