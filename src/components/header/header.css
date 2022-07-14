@@ -13,16 +13,7 @@
     color: #e37916;
 }
 
-.button_link a {
-    text-decoration: none;
-    background-color: #e37916;
-    padding: 10px 20px;
-    color: white;
-}
 
-.button_link a:hover {
-    color: black;
-}
 
 /*********** teletubby-like button styles **************/
 
