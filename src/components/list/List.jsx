@@ -53,6 +53,12 @@ const data = [
     url: 'https://b2b-amracing.pl/pl/products/stojak-podstawka-podnosnik-motocyklowyl-przod-tyl-160kg-3-adaptery-2-palaki-czarny-bxlev110bk-6917?query_id=3',
     image1: 'https://amracing.pl/pol_pl_Stojak-podstawka-podnosnik-motocyklowyl-przod-tyl-160kg-3-adaptery-2-palaki-czarny-BXLEV110BK-6917_1.jpg',
   },
+  {
+    name: 'Stojak pod głowkę ramy',
+    code: 'BX040022BK',
+    url: 'https://b2b-amracing.pl/pl/products/stojak-motocyklowy-pod-glowke-ramy-czarny-6-adapterow-skladany-bx040022bk-12864?query_id=4',
+    image1: 'https://amracing.pl/pol_pl_Stojak-pod-glowke-ramy-BX040022BK-12864_1.jpg',
+  },
 ]
 
 const List = () => {
