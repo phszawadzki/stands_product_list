@@ -59,6 +59,24 @@ const data = [
     url: 'https://b2b-amracing.pl/pl/products/stojak-motocyklowy-pod-glowke-ramy-czarny-6-adapterow-skladany-bx040022bk-12864?query_id=4',
     image1: 'https://amracing.pl/pol_pl_Stojak-pod-glowke-ramy-BX040022BK-12864_1.jpg',
   },
+  {
+    name: 'Rampa / najazd / trap, quad, motocykl, 340 kg, aluminium, 226x28 cm',
+    code: 'BXRAMP611',
+    url: 'https://b2b-amracing.pl/pl/products/rampa-najazd-trap-quad-motocykl-340-kg-aluminium-226x28-cm-bxramp611-7763?query_id=5',
+    image1: 'https://amracing.pl/pol_pl_Rampa-najazd-trap-quad-motocykl-340-kg-aluminium-226x28-cm-BXRAMP611-7763_1.jpg',
+  },
+  {
+    name: 'Adapter do podnośnika / stojaka typ - L (pod wahacz)',
+    code: 'BXBT0002',
+    url: 'https://b2b-amracing.pl/pl/products/adapter-do-podnosnika-stojaka-typ-l-pod-wahacz-bxbt0002-11057?query_id=6',
+    image1: 'https://amracing.pl/pol_pl_Adapter-do-podnosnika-stojaka-typ-L-pod-wahacz-BXBT0002-11057_2.jpg',
+  },
+  {
+    name: 'Adapter do podnośnika / stojaka typ - V',
+    code: 'BX7220441',
+    url: 'https://b2b-amracing.pl/pl/products/adapter-do-podnosnika-stojaka-typ-v-bx7220441-11064?query_id=6',
+    image1: 'https://amracing.pl/pol_pl_Adapter-do-podnosnika-stojaka-typ-V-BX7220441-11064_1.png',
+  },
 ]
 
 const List = () => {
