@@ -100,9 +100,9 @@ const List = () => {
                     onSlideChange={() => console.log('slide change')}
                     >
                       <SwiperSlide><img src={image1} className='image ' /></SwiperSlide>
-                      <SwiperSlide><img src={image2} className='image' /></SwiperSlide>
+                      {/* <SwiperSlide><img src={image2} className='image' /></SwiperSlide>
                       <SwiperSlide><img src={image3} className='image' /></SwiperSlide>
-                      <SwiperSlide><img src={image4} className='image' /></SwiperSlide>
+                      <SwiperSlide><img src={image4} className='image' /></SwiperSlide> */}
                       
                     </Swiper>
                   </div>
